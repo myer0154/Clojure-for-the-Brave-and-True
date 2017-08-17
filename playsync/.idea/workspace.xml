@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7759ffab-8275-49b3-b1d9-0f804d6a205e" name="Default" comment="" />
+    <ignored path="playsync.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="playsync" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/playsync/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/playsync/core.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playsync" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playsync" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playsync" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playsync" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playsync" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="ReplState" timestamp="1461879239893">{:repl-history {:ide [], :local [&quot;(&gt;!! echo-buffer \&quot;ketchup\&quot;)&quot; &quot;(doc &gt;!!)&quot; &quot;(doc go)&quot; &quot;(let [[in out] (hot-dog-machine)]\n  (&gt;!! in \&quot;pocket lint\&quot;)\n  (&lt;!! out))&quot; &quot;(let [[in out] (hot-dog-machine-v2 2)]\n  (&gt;!! in \&quot;pocket lint\&quot;)\n  (println (&gt;!! out))\n  \n  (&gt;!! in 3)\n  (println (&lt;!! out))\n  \n  (&gt;!! in 3)\n  (println (&lt;!! out))\n  \n  (&gt;!! in 3)\n  (&lt;!! out))&quot; &quot;(let [[in out] (hot-dog-machine-v2 2)]\n  (&gt;!! in \&quot;pocket lint\&quot;)\n  (println (&lt;!! out))\n  \n  (&gt;!! in 3)\n  (println (&lt;!! out))\n  \n  (&gt;!! in 3)\n  (println (&lt;!! out))\n  \n  (&gt;!! in 3)\n  (&lt;!! out))&quot; &quot;(let [c1 (chan)\n      c2 (chan)\n      c3 (chan)]\n  (go (&gt;! c2 (clojure.string/upper-case &lt;&lt;! c1))))&quot; &quot;(let [c1 (chan)\n      c2 (chan)\n      c3 (chan)]\n  (go (&gt;! c2 (clojure.string/upper-case (&lt;! c1))))\n  (go (&gt;1 c2 (clojure.string/reverse (&lt;! c2))))\n  (go (println (&lt;! c3)))\n  (&gt;!! c1 \&quot;redrum\&quot;))&quot; &quot;(let [c1 (chan)\n      c2 (chan)\n      c3 (chan)]\n  (go (&gt;! c2 (clojure.string/upper-case (&lt;! c1))))\n  (go (&gt;! c2 (clojure.string/reverse (&lt;! c2))))\n  (go (println (&lt;! c3)))\n  (&gt;!! c1 \&quot;redrum\&quot;))&quot; &quot;(let [c1 (chan)\n      c2 (chan)\n      c3 (chan)]\n  (go (&gt;! c2 (clojure.string/upper-case (&lt;! c1))))\n  (go (&gt;! c3 (clojure.string/reverse (&lt;! c2))))\n  (go (println (&lt;! c3)))\n  (&gt;!! c1 \&quot;redrum\&quot;))&quot; &quot;(defn append-to-file\n  \&quot;Write a string to the end of a file\&quot;\n  [filename s]\n  (spit filename s :apped true))&quot; &quot;(defn format-quote\n  \&quot;Delineate the beginning and end of a quote because it's convenient\&quot;\n  [quote]\n  (str \&quot;=== BEGIN QUOTE ===\\n\&quot; quote \&quot;=== END QUOTE ===\\n\\n\&quot;))&quot; &quot;(defn random-quote\n  \&quot;Retrieve a random quote and format it\&quot;\n  []\n  (format-quote (slurp \&quot;http://www.braveclojure.com/random-quote\&quot;)))&quot; &quot;(defn snag-quotes\n  [filename num-quotes]\n  (let [c (chan)]\n    (go (while true (append-to-file filename (&lt;! c))))\n    (dotimes [n num-quotes] (go (&gt;! c (random-quote))))))&quot; &quot;(snag-quotes \&quot;text.txt\&quot; 5)&quot; &quot;(defn upper-caser\n  [in]\n  (let [out (chan)]\n    (go (while true (&gt;! out (clojure.string/upper-case (&lt;! in)))))\n    out))&quot; &quot;(defn reverser\n  [in]\n  (let [out (chan)]\n    (go (while true (&gt;! out (clojure.string/reverse (&lt;! in)))))\n    out))&quot; &quot;(defn printer\n  [in]\n  (go (while true (println (&lt;! in)))))&quot; &quot;(def in-chan (chan))&quot; &quot;(def upper-caser-out (upper-caser in-chan))&quot; &quot;(def reverser-out (reverser upper-caser-out))&quot; &quot;(printer reverser-out)&quot; &quot;(&gt;!! in-chan \&quot;redrum\&quot;)&quot; &quot;(&gt;!! in-chan repaid)&quot; &quot;(&gt;!! in-chan \&quot;repaid\&quot;)&quot; &quot;(.toUpperCase \&quot;By Bluebeard's bananas!\&quot;)&quot; &quot;(.indexOf \&quot;Let's synergize our bleedingy edges\&quot; \&quot;y\&quot;)&quot; &quot;(.indexOf \&quot;Let's synergize our bleeding edges\&quot; \&quot;y\&quot;)&quot; &quot;(java.lang.Math/PI)&quot; &quot;(java.lang.Math/abs -3 -4)&quot; &quot;(java.lang.Math/abs -3)&quot; &quot;(macroexpand '(.toUpperCase \&quot;By Bluebeard's bananas\&quot;))&quot; &quot;(macroexpand-1 '(.toUpperCase \&quot;By Bluebeard's bananas\&quot;))&quot; &quot;(java.util.Stack.)&quot; &quot;(let [stack (java.util.Stack.)]\n  (.push stack \&quot;Latest episode of Game of Thrones, ho!\&quot;)\n  stack)&quot; &quot;(let [stack (java.util.Stack.)]\n  (.push stack \&quot;Latest episode of Game of Thrones, ho!\&quot;)\n  (.psuh stack \&quot;Some other crazy crap!\&quot;)\n  stack)&quot; &quot;(let [stack (java.util.Stack.)]\n  (.push stack \&quot;Latest episode of Game of Thrones, ho!\&quot;)\n  (.push stack \&quot;Some other crazy crap!\&quot;)\n  stack)&quot; &quot;(doc macroexpand-1)&quot; &quot;(doc macroexpand)&quot; &quot;(doc doto)&quot; &quot;(System/getenv)&quot; &quot;(System/getProperty \&quot;user.dir\&quot;)&quot; &quot;(System/getProperty \&quot;java.version\&quot;)&quot; &quot;(spit \&quot;/tmp/hercules-todo-list\&quot;\n      \&quot;- kill dat lion brov\n      - chop up what nasty multi-headed snake thing\&quot;)&quot; &quot;(spit \&quot;c/tmp/hercules-todo-list\&quot;\n      \&quot;- kill dat lion brov\n      - chop up what nasty multi-headed snake thing\&quot;)&quot; &quot;(spit \&quot;c/hercules-todo-list.txt\&quot;\n      \&quot;- kill dat lion brov\n      - chop up what nasty multi-headed snake thing\&quot;)&quot; &quot;(spit \&quot;c:/hercules-todo-list.txt\&quot;\n      \&quot;- kill dat lion brov\n      - chop up what nasty multi-headed snake thing\&quot;)&quot; &quot;(slurp \&quot;c:/hercules-todo-list.txt\&quot;)&quot; &quot;((fn [x y]\n   #{x y})\n  1 5 6 5 7 6 5)&quot; &quot;((fn [x &amp; y]\n   #{x y})\n  1 5 6 5 7 6 5)&quot; &quot;((fn [x &amp; y]\n   #{x (map y})\n  1 5 6 5 7 6 5)&quot; &quot;((fn [&amp; y]\n   #{y})\n  1 5 6 5 7 6 5)&quot; &quot;(apply '(1 2 3 4 5))&quot; &quot;(apply identity '(1 2 3 4 5))&quot; &quot;(doc apply)&quot; &quot;(apply identity 1 2 3 4))&quot; &quot;(apply identity [1 2 3 4])&quot; &quot;(cons 1 [2 3])&quot; &quot;(cons 1 (2 3))&quot; &quot;(cons 1 '(2 3))&quot; &quot;`(map identity [1 2 3 4])&quot; &quot;[1 @(2 3)]&quot; &quot;[1 (2 3)]&quot; &quot;(def x (2 3)\n  )&quot; &quot;(def x '(2 3)\n  )&quot; &quot;[1 x]&quot; &quot;[1 @x]&quot; &quot;'[1 @x]&quot; &quot;(*ns*)&quot; &quot;(println *ns*)&quot; &quot;(str \&quot;The current namespace is \&quot; *ns*)&quot; &quot;(source and)&quot; &quot;(dock and#)&quot; &quot;(doc and#)&quot; &quot;(source and#)&quot; &quot;(source or)&quot; &quot;(source when)&quot; &quot;(doc source)&quot; &quot;(source source)&quot; &quot;(source source-fn)&quot; &quot;(doc source-fn)&quot; &quot;('(1 (2 3)))&quot; &quot;'(1 (2 3))&quot; &quot;(seq '(1 (2 3)))&quot; &quot;(seq [1 (2 3)])&quot; &quot;(seq [1 '(2 3)])&quot; &quot;[1 '(2 3)]&quot; &quot;(source empty?)&quot; &quot;(:key 1 :key2 2 :key3 3)&quot; &quot;'(:key 1 :key2 2 :key3 3)&quot; &quot;[:key 1 :key2 2 :key3 3]&quot; &quot;(def x )&quot; &quot;(def x [:key 1 :key2 2 :key3 3])&quot; &quot;(:key1 x)&quot; &quot;(get x :key1)&quot; &quot;(x)&quot; &quot;x&quot; &quot;(first x)&quot; &quot;(second x)&quot; &quot;(third x)&quot; &quot;(rest x)&quot;], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.REPL">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="false" name="REPL" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="playsync" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.REPL" />
+    </list>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="816" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18608414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6763754" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/playsync/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playsync/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

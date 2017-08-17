@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df8007bf-8ed8-457a-a64e-d8195ea13195" name="Default" comment="" />
+    <ignored path="the-divine-cheese-code.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="the-divine-cheese-code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="svg.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/visualization/svg.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/the_divine_cheese_code/visualization/svg.clj" />
+        <option value="$PROJECT_DIR$/src/the_divine_cheese_code/core.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-divine-cheese-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-divine-cheese-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-divine-cheese-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-divine-cheese-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-divine-cheese-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the_divine_cheese_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-divine-cheese-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-divine-cheese-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the_divine_cheese_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visualization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ReplState" timestamp="1461079992191">{:repl-history {:ide [], :local [&quot;(ignore-last-operand (+1 2 10))&quot; &quot;(ignore-last-operand (+ 1 2 10))&quot; &quot;(ignore-last-operand (+ 1 2 (println \&quot;Fuck this noise!\&quot;)))&quot; &quot;(ignore-last-operand (+ 1 2 (println \&quot;Fuck this noise!\&quot;) (println \&quot;And this noise too!!\&quot;)))&quot; &quot;(macro-expand '(ignore-last-operand (+ 1 2 10)))&quot; &quot;(macroexpand '(ignore-last-operand (+ 1 2 10)))&quot; &quot;(defmacro infix\n  [infixed]\n  (list (second infixed)\n        (first infixed)\n        (last infixed)))&quot; &quot;(infix (1 + 2))&quot; &quot;(infix (7 * 2))&quot; &quot;(doc 0&gt;&gt;)&quot; &quot;(doc -&gt;&gt;)&quot; &quot;(source -&gt;)&quot; &quot;(list (read-string (\&quot;println \\\&quot;Jason Star Wars\\\&quot;\&quot; )))&quot; &quot;(list (read-string \&quot;(println \\\&quot;Jason Star Wars\\\&quot;)\&quot; ))&quot; &quot;(eval (list (read-string \&quot;(println \\\&quot;Jason Star Wars\\\&quot;)\&quot; )))&quot; &quot;(eval (list (read-string \&quot;println \\\&quot;Jason Star Wars\\\&quot;\&quot; )))&quot; &quot;(list (read-string \&quot;println \\\&quot;Jason Star Wars\\\&quot;\&quot; ))&quot; &quot;(list (read-string (quote(\&quot;println \\\&quot;Jason Star Wars\\\&quot;\&quot; ))))&quot; &quot;(doc when)&quot; &quot;(doc and)&quot; &quot;(source and)&quot; &quot;(println \&quot;7!!\&quot;)&quot; &quot;(doc println)&quot; &quot;(source println)&quot; &quot;(source print)&quot; &quot;(source pr)&quot; &quot;(defmacro my-print\n  [expression]\n  (list let [result expression]\n        (list println result)\n        result))&quot; &quot;(my-print \&quot;I'm fucking printed, yo!\&quot;)&quot; &quot;(println \&quot;I'm fucking printed, yo!\&quot;)&quot; &quot;(defmacro my-print\n  [expression]\n  (list 'let ['result 'expression]\n        (list 'println 'result)\n        'result))&quot; &quot;(my-print \&quot;I'm fucking printed too, yo!\&quot;)&quot; &quot;(defmacro my-print\n  [expression]\n  (list 'let ['result expression]\n        (list 'println 'result)\n        'result))&quot; &quot;(macroexpand (my-print \&quot;I'm fucking printed too, yo!\&quot;))&quot; &quot;(macroexpand '(my-print \&quot;I'm fucking printed too, yo!\&quot;))&quot; &quot;sweating-to-the-oldies&quot; &quot;'sweating-to-the-oldies&quot; &quot;(macroexpand ('(1 2 3)))&quot; &quot;(macroexpand '(1 2 3)))&quot; &quot;(macroexpand '(1 2 3))&quot; &quot;(source when)&quot; &quot;(defmacro report\n  [to-try]\n  `(if ~to-try\n     (println (quote ~to-try) \&quot;was successful:\&quot; ~to-try)\n     (println (quote ~to-try) \&quot;Was not successful:\&quot; ~to-try)))&quot; &quot;(report (== 1 2))&quot; &quot;(report (== 1 1.0))&quot; &quot;(report (= 1 1.0))&quot; &quot;(report (do (Thread/sleep 1000) (+ 1 1)))&quot; &quot;(defmacro report\n  [to-try]\n  `(let [result# ~to-try]\n     (if result#\n     (println (quote ~to-try) \&quot;was successful:\&quot; result#)\n     (println (quote ~to-try) \&quot;Was not successful:\&quot; result#))))&quot; &quot;(time (report (do (Thread/sleep 1000) (+ 1 1))))&quot; &quot;(def order-details\n  {:name \&quot;Mitchard Blimmons\&quot;\n   :email \&quot;mitchard.blimmonsgmail.com\&quot;})&quot; &quot;order-details&quot; &quot;(def order-details-validations\n  {:name [\&quot;Please enter a name\&quot; not-empty]\n   \n   :email [\&quot;Please enter an email address\&quot; not-empty\n           \&quot;Your email address doesn't look like an email address\&quot; #(or (empty? %) (re-seq #\&quot;@\&quot; %))]})&quot; &quot;(defn error-messages-for\n  \&quot;Return a seq of error messages\&quot;\n  [to-validate message-validator-pairs]\n  (map first (filter #(not ((second %) to-validate)))&quot; &quot;(defn error-messages-for\n  \&quot;Return a seq of error messages\&quot;\n  [to-validate message-validator-pairs]\n  (map first (filter #(not ((second %) to-validate))\n                     (partition 2 message-validator-pairs))))&quot; &quot;(doc error-messages-for)&quot; &quot;(error-messages-for \&quot;\&quot; [\&quot;Please enter a name\&quot; not-empty])&quot; &quot;(error-messages-for \&quot;\&quot; [\&quot;Please enter a name\&quot; not-empty \&quot;Go fuck yourself\&quot; not-empty])&quot; &quot;(defn validate\n  \&quot;Returns a map with a vector of errors for each key\&quot;\n  [to-validate validations]\n  (reduce (fn [errors validation]\n            (let [[fieldname validate-check-groups] validation\n                  value (get to-validate fieldname)\n                  error-messages (error-messages-for value validation-check-groups)]\n              (if (empty? error-messages)\n                errors\n                (assoc errors fieldname error-messages))))\n          {}\n          validations))&quot; &quot;(defn validate\n  \&quot;Returns a map with a vector of errors for each key\&quot;\n  [to-validate validations]\n  (reduce (fn [errors validation]\n            (let [[fieldname validation-check-groups] validation\n                  value (get to-validate fieldname)\n                  error-messages (error-messages-for value validation-check-groups)]\n              (if (empty? error-messages)\n                errors\n                (assoc errors fieldname error-messages))))\n          {}\n          validations))&quot; &quot;(validate order-details order-details-validations)&quot; &quot;(let [errors (validate order-details order-details-validations)]\n  (if (empty? errors)\n    (println :success)\n    (println :failure errors)))&quot; &quot;(defmacro if-valid\n  \&quot;Handle validation more concisely\&quot;\n  [to-validate validations errors-name &amp; then-else]\n  `(let [~errors-name (validate ~to-validate ~validations)]\n     (if (empty? ~errors-name)\n       ~@then-else)))&quot; &quot;(macroexpand\n  '(if-valid order-details order-details-validations my-error-name\n             (println :success)\n             (println :failure my-error-name)))&quot; &quot;(macroexpand future)&quot; &quot;(doc future)&quot; &quot;(doc realized)&quot; &quot;(doc realized?)&quot; &quot;(source future)&quot; &quot;(source realized?)&quot; &quot;(source if)&quot; &quot;(doc if)&quot; &quot;(future (Thread/sleep 4000)\n        (println \&quot;I'll print after 4 seconds\&quot;))&quot; &quot;(future (Thread/sleep 4000)\n        (println \&quot;I'll print after 4 seconds\&quot;))(println \&quot;I'll print now\&quot;)&quot; &quot;(macroexpand @)&quot; &quot;(let [result (future (println \&quot;this prints once\&quot;)\n                     (+ 1 1))]\n  (println \&quot;deref: \&quot; (deref result))\n  (println \&quot;@: \&quot; @result))&quot; &quot;(let [result (future (Thread/sleep 3000)\n                     (+1 1))]\n  (println \&quot;The result is: \&quot; @result)\n  (println \&quot;It will be at least 3 seconds before I print\&quot;))&quot; &quot;(let [result (future (Thread/sleep 3000)\n                     (+1 1))]\n  (println \&quot;The result is: \&quot; @result))\n  (println \&quot;It will be at least 3 seconds before I print\&quot;)&quot; &quot;(let [result (future (Thread/sleep 3000)\n                     (+ 1 1))]\n  (println \&quot;The result is: \&quot; @result))\n  (println \&quot;It will be at least 3 seconds before I print\&quot;)&quot; &quot;(deref (future (Thread/sleep 1000) 0) 10 5)&quot; &quot;(deref (future (Thread/sleep 1000) 1500) 10 5)&quot; &quot;(deref (future (Thread/sleep 1000) 0) 1500 5)&quot; &quot;(deref (future (Thread/sleep (+ 1 17)) 0) 1500 5)&quot; &quot;(deref (future (Thread/sleep ) 0) 1500 5)&quot; &quot;(deref (future (Thread/sleep 1000) (+ 1 17)) 1500 5)&quot; &quot;(deref (future (Thread/sleep 1000) (+ 1 17)) 15 5)&quot; &quot;(realized? (future (Thread/sleep 1000)))&quot; &quot;(let [f (future)]\n  @f\n  (realized? f))&quot; &quot;(def jackson-5-delay\n  (delay (let [message \&quot;Just call my name and I'll be there\&quot;]\n           (println \&quot;First deref: \&quot; message)\n           message)))&quot; &quot;(jackson-5-delay)&quot; &quot;(force jackson-5-delay)&quot; &quot;(@jackson-5-delay)&quot; &quot;@jackson-5-delay&quot; &quot;(def my-promise (promise))&quot; &quot;(deliver my-promise (+ 1 2))&quot; &quot;@my-promise&quot; &quot;(def yak-butter-international\n  {:store \&quot;Yak Butter International\&quot;\n   :price 90\n   :smoothness 90})&quot; &quot;(def butter-than-nothing\n  {:store \&quot;Butter Than Nothing\&quot;\n   :price 150\n   :smoothness 83})&quot; &quot;(def baby-got-yak\n  {:store \&quot;Baby Got Yak\&quot;\n   :price 94\n   :smoothness 99})&quot; &quot;(defn mock-api-call\n  [result]\n  (Thread/sleep 1000)\n  result)&quot; &quot;(defn satisfactory?\n  \&quot;If the butter meets our criteria, return the butter, else return false\&quot;\n  [butter]\n  (and (&lt;= (:price butter) 100)\n       (&gt;= (:smoothness butter) 97)\n       butter))&quot; &quot;(time (some (comp satisfactory? mock-api-call)\n            [yak-butter-international butter-than-nothing baby-got-yak]))&quot; &quot;(time\n  (let [butter-promise (promise)]\n    (doseq [butter [yak-butter-international butter-than-nothing baby-got-yak]]\n      (future (if-let [satisfactory-butter (satisfactory? (mock-api-call butter))]\n                (deliver butter-promise satisfactory-butter))))\n    (println \&quot;And the winner is: \&quot; @butter-promise)))&quot; &quot;(let [p (promise)]\n  (deref p 100 \&quot;timed out\&quot;))&quot;], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.Unnamed">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="" />
+      <setting name="repl" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="the-divine-cheese-code" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="the-divine-cheese-code" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.Unnamed" />
+    </list>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6043689" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22411004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/visualization/svg.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/visualization/svg.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/visualization/svg.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/the_divine_cheese_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
